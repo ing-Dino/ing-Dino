@@ -1,4 +1,4 @@
-# ⚡ [Tu Nombre o Nickname] | Informatics Engineering Student
+# ⚡ [Josue Calhueque] | Informatics Engineering Student
 
 Desarrollador orientado a **Ingeniería de Software** y entusiasta de la **Infraestructura de IT**. Me especializo en crear soluciones funcionales y gestionar entornos de red seguros y eficientes.
 
