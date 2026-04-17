@@ -1,4 +1,4 @@
-# ⚡ [Josue Calhueque] | Informatics Engineering Student
+# ⚡ [Josue Calhueque] | Estudiante de Ingeniería en Informática
 
 Desarrollador orientado a **Ingeniería de Software** y entusiasta de la **Infraestructura de IT**. Me especializo en crear soluciones funcionales y gestionar entornos de red seguros y eficientes.
 
